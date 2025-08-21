@@ -15,10 +15,13 @@ body{
   background: #ee7125;
 }
 .wrapper{
-  width: 450px;
+  width: 95vh;
   background: #fff;
   border-radius: 10px;
   box-shadow: 0 15px 40px rgba(0,0,0,0.12);
+  height: 90vh;
+  min-width: 500px;
+  min-height: 474px;
 }
 .wrapper header{
   display: flex;
